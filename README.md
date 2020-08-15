@@ -1,15 +1,6 @@
 Laravel 5 Nestable
 ========
 
-Install
----
-
-```ssh
-composer require tekkilavuz/laravel-nestable
-```
-
-Then
-
 Add to **app.php** the Service Provider file.
 ```ssh
 Nestable\NestableServiceProvider::class
